@@ -1,0 +1,14 @@
+[workspace]
+resolver = "2"
+authors= ["ssalibenjamin0402@gmail.com"]
+edition = "2021"
+
+members = [
+    "nfts",
+    "users"
+]
+
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
